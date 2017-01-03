@@ -1,2 +1,2 @@
 # vfdwatch
-A LD8035 VFD display based wrostwatch
+A LD8035 VFD display based wristwatch
